@@ -1,0 +1,1 @@
+Please modify the code to compare the throughput of 4-bit and 8-bit configurations. Ensure to add the necessary checks and validation to ensure the correctness of the output.
